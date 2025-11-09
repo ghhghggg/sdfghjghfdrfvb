@@ -1,0 +1,13 @@
+li {
+    color: hsl(253, 100%, 50%);
+    background-color: rgba(5, 5, 5, 0.284);
+    width: 125px;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+li:hover {
+    background-color: black;
+}
